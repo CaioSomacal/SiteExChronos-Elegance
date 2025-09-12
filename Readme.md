@@ -1,4 +1,4 @@
-🌟 Chronos Elegance - Exemplo de Landing Page para Relógios de Luxo
+🌟 Chronos Elegance - Exemplo de Landing Page para loja de relogios
 Projeto Demonstrativo · Template para inspiração ou uso educacional
 
 📌 Visão Geral
